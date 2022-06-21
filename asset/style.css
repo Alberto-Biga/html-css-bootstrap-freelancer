@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+
+  ul {
+    list-style-type: none;
+  }
+
+  
+  .bg_dark {
+    background-color: rgba(44, 62, 80, 255);
+  }
+  
+  .white {
+    color: rgba(255, 255, 255, 255);
+  }
+  
+  .green {
+    color: rgba(26, 188, 156, 255);
+  }
+  
+  .line {
+    border: 1px solid;
+    height: 1px;
+  }
+  
+  .btn-green {
+    background-color: rgba(26, 188, 156, 255);
+  }
+  
+
+  .hero,
+  .about {
+    background-color: rgba(26, 188, 156, 255);
+  }
+  
+  .hero-title {
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 255);
+    text-align: center;
+  }
+  
+
+  
+  .border {
+    border-bottom: 1px solid gray;
+  }
+
+  .foot {
+    background-color: rgba(58, 84, 109, 255);
+  }
+  
+  .copyright {
+    background-color: rgba(44, 62, 80, 255);
+  }
